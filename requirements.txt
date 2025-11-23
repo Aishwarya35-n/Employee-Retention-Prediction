@@ -1,0 +1,26 @@
+# Core Data Science Libraries
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Machine Learning Models
+xgboost==2.0.0
+imbalanced-learn==0.11.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Explainable AI
+shap==0.42.1
+
+# Utilities
+jupyter==1.0.0
+notebook==7.0.2
+ipywidgets==8.1.0
+
+# Progress bars
+tqdm==4.66.1
+
+# Model persistence
+joblib==1.3.2
